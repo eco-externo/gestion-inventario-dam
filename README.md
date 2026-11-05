@@ -18,8 +18,8 @@ Proyecto de escritorio desarrollado en **Java** utilizando **JDBC** para la pers
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/eco-externo/gestor-tareas.git](https://github.com/eco-externo/gestor-tareas.git)
- 
+   git clone [https://github.com/eco-externo/gestion-inventario-dam.git](https://github.com/eco-externo/gestion-inventario-dam.git)
+
 
 2. **Configurar la Base de Datos:**
    * Crea una base de datos en MySQL llamada `inventario_db`.
